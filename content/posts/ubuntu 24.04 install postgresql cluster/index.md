@@ -1,6 +1,6 @@
 ---
 date: '2026-01-29T14:13:38+08:00'
-draft: true
+draft: false
 title: 'Ubuntu 24.04 Install Postgresql Cluster'
 ---
 
